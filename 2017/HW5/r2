@@ -1,0 +1,13 @@
+P
+4
+4
+P
+A
+A
+B
+save 1.txt
+B
+C
+C
+load 1.txt
+D
